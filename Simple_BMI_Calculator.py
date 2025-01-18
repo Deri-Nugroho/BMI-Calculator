@@ -1,4 +1,4 @@
-print ("\nKALKULATOR SEDERHANA\n")
+print ("\nKALKULATOR BMI SEDERHANA\n")
 while True:
     print('Satuan Panjang :\n 1. Cm (Centi Meter)\n 2. M (Meter)\n')
     Satuan_Panjang = int(input('Pilih Satuan Panjang : '))
