@@ -34,5 +34,5 @@ while True:
         else :
           print('Obesitas')
     
-else:
-  print('Harap hanya input huruf "Y" !!!')
+    else:
+      print('\nHarap hanya input opsi 1 atau 2 !!! \n')
