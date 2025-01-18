@@ -4,7 +4,7 @@ Kalkulator BMI sederhana menggunakan bahasa python
 Sebelum memulai pemrograman dengan Python, ada beberapa hal yang perlu Anda persiapkan untuk memastikan pengalaman coding yang lancar dan produktif. Berikut adalah daftar langkah-langkah yang direkomendasikan:
 
 1. Instalasi Python
-Unduh versi terbaru Python dari situs resminya: python.org.
+Unduh versi terbaru Python dari situs resminya: [python.org](https://www.python.org).
 Pastikan untuk memilih versi yang sesuai dengan sistem operasi Anda (Windows, macOS, Linux).
 Pastikan Python di PATH:
 
