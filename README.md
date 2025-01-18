@@ -11,9 +11,6 @@ Pastikan Python di PATH:
 Saat menginstal Python, pastikan Anda mencentang opsi "Add Python to PATH" agar Python dapat dijalankan dari terminal atau command prompt.
 Verifikasi Instalasi:
 
-
-Ketika dilihat di GitHub, ini akan terlihat seperti ini:
-
 Buka terminal atau command prompt, lalu ketik:
 
 
