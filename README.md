@@ -1,4 +1,4 @@
-# BMI-Calculator
+# BMI Calculator
 Kalkulator BMI sederhana menggunakan bahasa python
 
 Sebelum memulai pemrograman dengan Python, ada beberapa hal yang perlu Anda persiapkan untuk memastikan pengalaman coding yang lancar dan produktif. Berikut adalah daftar langkah-langkah yang direkomendasikan:
